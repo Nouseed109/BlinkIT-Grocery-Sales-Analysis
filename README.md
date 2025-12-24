@@ -1,20 +1,20 @@
-# 🛒 BlinkIT Grocery Sales Analysis Dashboard
+#  BlinkIT Grocery Sales Analysis Dashboard
 
-## 📊 Project Overview
+## Project Overview
 This project analyzes BlinkIT’s grocery sales performance using Excel.  
 It includes data cleaning, validation, KPIs calculation, and dashboard visualization.
 
-## 🧾 Dataset
+## Dataset
 - **File:** BlinkIT_Grocery_sales_analysis.csv  
 - **Columns:** Item Identifier, Outlet Identifier, Item Type, Item MRP, Outlet Type, Sales, Establishment Year, etc.  
 - **Source:** Self-collected / Practice dataset.
 
-## ⚙️ Data Validation
+##  Data Validation
 - Checked missing values and duplicates using Excel formulas (`COUNTBLANK`, `REMOVE DUPLICATES`).
 - Ensured numeric fields were correctly formatted.
 - Verified outlet and item identifiers using `COUNTIF`.
 
-## 📈 KPIs
+##  KPIs
 - Total Sales  
 - Max Item Sales  
 - Average Item MRP  
@@ -22,19 +22,19 @@ It includes data cleaning, validation, KPIs calculation, and dashboard visualiza
 - Outlet Count  
 - Average Item Sales per Outlet
 
-## 📊 Visualizations
+##  Visualizations
 - **Column Chart:** Sales by Outlet Type  
 - **Bar Chart:** Top Selling Item Types  
 - **Line Chart:** Sales by Outlet Establishment Year  
 - **Pie Chart:** Sales by Location Type  
 - **Scatter Plot:** MRP vs Sales relationship
 
-## 💡 Insights
+##  Insights
 - Supermarkets generate the highest total sales.
 - Item MRP shows moderate correlation with sales.
 - Older outlets tend to maintain steady performance.
 
-## 🧠 Tools Used
+##  Tools Used
 - Microsoft Excel  
 - GitHub for project versioning
 
